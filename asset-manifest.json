@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "solayunus.github.io/myapp/static/css/main.d1b05096.chunk.css",
+    "main.js": "solayunus.github.io/myapp/static/js/main.5d10c015.chunk.js",
+    "main.js.map": "solayunus.github.io/myapp/static/js/main.5d10c015.chunk.js.map",
+    "runtime-main.js": "solayunus.github.io/myapp/static/js/runtime-main.405ec9fa.js",
+    "runtime-main.js.map": "solayunus.github.io/myapp/static/js/runtime-main.405ec9fa.js.map",
+    "static/js/2.36767d31.chunk.js": "solayunus.github.io/myapp/static/js/2.36767d31.chunk.js",
+    "static/js/2.36767d31.chunk.js.map": "solayunus.github.io/myapp/static/js/2.36767d31.chunk.js.map",
+    "index.html": "solayunus.github.io/myapp/index.html",
+    "precache-manifest.0ca2a7c645e0449f6d8f00d3c3a7b396.js": "solayunus.github.io/myapp/precache-manifest.0ca2a7c645e0449f6d8f00d3c3a7b396.js",
+    "service-worker.js": "solayunus.github.io/myapp/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "solayunus.github.io/myapp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.36767d31.chunk.js.LICENSE": "solayunus.github.io/myapp/static/js/2.36767d31.chunk.js.LICENSE",
+    "static/media/logo.svg": "solayunus.github.io/myapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.405ec9fa.js",
+    "static/js/2.36767d31.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5d10c015.chunk.js"
+  ]
+}
